@@ -28,7 +28,7 @@ No install available package is released as source code.
 
 A database is created giving a name as input parameter. If the database already exists it is imported from existing .pydb file with corresponding name.
 
-**\_\repr\_\_**
+**\_\_repr\_\_**
 
 Meethod is used to print the database using a tabular form.
 
