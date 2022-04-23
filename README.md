@@ -13,6 +13,7 @@ A pydb is a class with rows,cols and elems_matrix attributes.
 ## Release Notes:
 
 - 1.0.0 Initial Release
+- 1.1.0 Import/Export files improved
 	
 ## Requirements
 
